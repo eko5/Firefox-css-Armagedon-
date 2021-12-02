@@ -1,6 +1,6 @@
 # Firefox-css-Armagedon-
 
-Projekt przepisany oraz zmodyfikowany wraz z potrzebawi wlasciciela . 
+Projekt przepisany oraz zmodyfikowany wraz z potrzebami wlasciciela . 
 
 Swietnie nadaje sie na mniejsze monitory gdyz nie zajmuje duzo miejsca . 
 
@@ -15,4 +15,4 @@ W pozniejszym czasie mozliwosc dodania web app w dodatkowym oknie , aby nie prze
 
 ![normal-hide](https://user-images.githubusercontent.com/17095845/144416560-7905ca46-3f6e-4279-ad67-c13cb1e57298.png)
 
-W tym oknie zachodzi chowanie sie paska bookmarks ora url . 
+W tym oknie zachodzi chowanie sie paska bookmarks oraz url . 
